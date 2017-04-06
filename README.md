@@ -6,7 +6,7 @@ TeleGram-CLI based broadcasting bot!
 ## Install
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
-cd $home && git clone https://github.com/tgMember/sinchi.git && cd sinchi 
+cd $home && git clone https://github.com/CyberSecurityBot/sinchi.git && cd sinchi 
 ```
 
 Enter your telegram Id in "sudo.lua" file
@@ -53,18 +53,3 @@ cd TabChi
 ./anticrash.sh
 ```
 
-***
-
-## Instruction and commands 
-
-for see instruction and command, send help method in your bot whit out '!' , '#' or '/' .
-
-***
-
-## Developers
-
-## [open and edit by (sajjad_021)](https://t.me/sajjad_021)
-## [channel (tgMember)](https://t.me/tgMember)
-
-
-Enjoy Your sinchi Bot!
